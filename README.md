@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MeatballerSweden
+- 👀 I’m interested in making games and becoming a better gamedeveloper in general.
+- 🌱 I’m currently learning unity.
+- 💞️ I’m looking to collaborate on GameJams, Games, anything c# related.
+- 📫 How to reach me themeatballersweden@gmail.com
